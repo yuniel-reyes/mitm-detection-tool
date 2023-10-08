@@ -6,12 +6,12 @@
 ### Steps to use the tool
 1. Clone the repository
 
-git clone https://github.com/yuniel-reyes/mitm-detection-tool.git
+'git clone https://github.com/yuniel-reyes/mitm-detection-tool.git'
 
 1. Install all needed package
 
-pip install -r requirements.txt
+'pip install -r requirements.txt'
 
 2. Run the tool:
 
-sudo python suparp.py
+'sudo python suparp.py'
